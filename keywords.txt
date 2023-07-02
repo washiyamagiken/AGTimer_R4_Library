@@ -1,0 +1,3 @@
+init		KEYWORD2
+start		KEYWORD2
+stop		KEYWORD2
